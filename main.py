@@ -10,8 +10,8 @@ from s02_chambai import chambai
 testcase_list = [
   {'tc_name': 'tc0', 'input': {'i1':1,    'i2':22},   'output':23},
   {'tc_name': 'tc1', 'input': {'i1':1,    'i2':None}, 'output':None},
-  {'tc_name': 'tc0', 'input': {'i1':None, 'i2':22},   'output':None},
-  {'tc_name': 'tc0', 'input': {'i1':None, 'i2':None}, 'output':None},
+  {'tc_name': 'tc2', 'input': {'i1':None, 'i2':22},   'output':None},
+  {'tc_name': 'tc3', 'input': {'i1':None, 'i2':None}, 'output':None},
 ]
 #endregion testkey_list
 
